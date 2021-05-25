@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @eburakaytekin
-- 👀 I’m interested in Digital Signal Processing
-- 🌱 I’m currently learning Python and C++
-- 📫 How to reach me aytekinburak@hotmail.com
+### Hi! Welcome to my github page. 👋
 
-<!---
-eburakaytekin/eburakaytekin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm Ensar Burak Aytekin. Senior Researcher at TUBITAK
+
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eburakaytekin&show_icons=true)
+
+## Graduation
+
+Electrical and Electronics Engineering Degree |  [Hacettepe University](https://www.hacettepe.edu.tr/)
+
+## I'm currently working on 🔭
+
+Senior Researcher - TUBITAK 
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/ensarburakaytekin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ensarburakaytekin)
+[![Instagram Badge](https://img.shields.io/badge/eburakaytekin-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/eburakaytekin/)
