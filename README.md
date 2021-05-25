@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Ensar Burak Aytekin. Senior Researcher at TUBITAK
+I'm Ensar Burak Aytekin. 
 
 
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eburakaytekin&show_icons=true)
@@ -12,8 +12,7 @@ Electrical and Electronics Engineering Degree |  [Hacettepe University](https://
 
 ## I'm currently working on 🔭
 
-Senior Researcher - TUBITAK 
-
+Senior Researcher at TUBITAK
 
 ## Contact Me 📫
 
