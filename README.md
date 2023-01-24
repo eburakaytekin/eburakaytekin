@@ -8,11 +8,11 @@ I'm Ensar Burak Aytekin.
 
 ## Graduation
 
-Electrical and Electronics Engineering Degree |  [Hacettepe University](https://www.hacettepe.edu.tr/)
+Electrical and Electronics Engineering Barchelor's Degree |  [Hacettepe University](https://www.hacettepe.edu.tr/)
+
+Electronics Engineering Master's Degree |  [Gebze Technical University](https://www.gtu.edu.tr/)
 
 ## I'm currently working on 🔭
-
-Msc. Electronics Eng. at Gebze Technical University
 
 Senior Researcher at TUBITAK
 
